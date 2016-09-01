@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    //就发货发货 客服经理手机发链接
 }
 
 - (void)didReceiveMemoryWarning {
